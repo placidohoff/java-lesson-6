@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="assignment">Programming Assignment 5</entry>
+    <entry key="name">Placido Hoff</entry>
+    <entry key="student.id">94156499</entry>
+    <entry key="email">pmhoff@my.ccri.edu</entry>
+    <entry key="date">2024-04-14</entry>    
+    <entry key="comments">I love Java Sorting and JUnit! :-)</entry>    
+</properties>
